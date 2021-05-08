@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+    color: #000080;
+}
+h2{
+    text-align: center;
+    color: #000080;
+}
+.pic{
+    padding-top: 1%;
+    margin: 10mm;
+    justify-content: center;
+}
+.header{
+    margin: 10mm;
+    background-color: #ffff00;
+}
+.origami:hover{
+    transform: scale(1.2);
+}
+
+.Wily{
+    margin: 10mm;
+    background-color: #51e5f0;
+    justify-content: center;
+    padding-top: 1%;
+}
+
+body {
+    background-color: #051b7e;
+}
+
+a:visited{
+    color :rgb(146, 30, 30);
+}
